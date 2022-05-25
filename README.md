@@ -10,14 +10,14 @@
 SET UP:
 * MovieRem.ipynb --Run with Jupyter Notebook
 * It creates the file : movie_list_dict.pkl and similarity.pkl (Add these files  to run the local host)
-* PyCharm Community edition 2020.3.5 --Used to Run the following files
+* PyCharm Community edition 2020.3.5 --Used to Run the following files:
 * * app.py
 * * .gitignore
 * * procfile
 * * setup
 * * requirements
-* * venv
-* * .idea
+* * venv(pre built)
+* * .idea(pre built)
 
 INITIAL SETUP:
 * Install Anaconda for Jupyter Notebook
@@ -26,3 +26,23 @@ INITIAL SETUP:
 LANGUAGE USED: PYTHON
 
 VIDEO LINK:
+
+
+Code Performance : 
+* Minimal accessibility requirements and actionalble.
+* Effective memory consumption with best execution time.
+
+LIBRARIES USED:
+* NUMPY
+* PANDAS
+* Scikit-learn (Sklearn)
+* The Natural Language Toolkit (NLTK) 
+* PICKLE
+* STREAMLIT 
+* REQUESTS
+
+DATASETS: 
+MOVIES DATASET :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+API CREATION :https://www.themoviedb.org/settings/api
+POSTER PATH :http://jsonviewer.stack.hu/
+
