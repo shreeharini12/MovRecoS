@@ -1,4 +1,4 @@
-# Microsoft Intern Engage 2022 *--SHREE HARINI R
+# Microsoft Intern Engage 2022 * --SHREE HARINI R
 * It is a platform to provide engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
 # Problem statements are given as follows: 
 * Face recognition
