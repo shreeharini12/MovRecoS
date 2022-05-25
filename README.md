@@ -44,5 +44,5 @@ LIBRARIES USED:
 DATASETS: 
 MOVIES DATASET :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 API CREATION :https://www.themoviedb.org/settings/api
-POSTER PATH :http://jsonviewer.stack.hu/
+POSTER PATH (PATH VIEW) :http://jsonviewer.stack.hu/
 
