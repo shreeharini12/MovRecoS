@@ -29,7 +29,7 @@ VIDEO LINK:
 
 
 Code Performance : 
-* Minimal accessibility requirements and actionalble.
+* Minimal accessibility requirements and actionable.
 * Effective memory consumption with best execution time.
 
 LIBRARIES USED:
