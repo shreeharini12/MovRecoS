@@ -9,7 +9,7 @@
 
 SET UP:
 * MovieRem.ipynb --Run with Jupyter Notebook
-* It creates the file : movie_list_dict.pkl and similarity.pkl (Add these to files in to run the local host)
+* It creates the file : movie_list_dict.pkl and similarity.pkl (Add these files  to run the local host)
 * PyCharm Community edition 2020.3.5 --Used to Run the following files
 * * app.py
 * * .gitignore
@@ -22,5 +22,7 @@ SET UP:
 INITIAL SETUP:
 * Install Anaconda for Jupyter Notebook
 * Install PyCharm
+
+LANGUAGE USED: PYTHON
 
 VIDEO LINK:
