@@ -28,7 +28,6 @@ LANGUAGE USED: PYTHON
 VIDEO LINK:
 https://youtu.be/oIoHfFrcOwg
 
-
 Code Performance : 
 * Minimal accessibility requirements and actionable.
 * Effective memory consumption with best execution time.
