@@ -26,7 +26,7 @@ INITIAL SETUP:
 LANGUAGE USED: PYTHON
 
 VIDEO LINK:
-https://youtu.be/5mKUcy8OnuA
+https://youtu.be/oIoHfFrcOwg
 
 
 Code Performance : 
