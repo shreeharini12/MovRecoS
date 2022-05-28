@@ -26,7 +26,7 @@ INITIAL SETUP:
 LANGUAGE USED: PYTHON
 
 VIDEO LINK:
-
+https://youtu.be/-fuwz36LB-A
 
 Code Performance : 
 * Minimal accessibility requirements and actionable.
